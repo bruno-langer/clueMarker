@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clueMarker/static/css/main.2e43fec3.chunk.css",
+    "main.js": "/clueMarker/static/js/main.b1fda204.chunk.js",
+    "main.js.map": "/clueMarker/static/js/main.b1fda204.chunk.js.map",
+    "runtime-main.js": "/clueMarker/static/js/runtime-main.dda0bafd.js",
+    "runtime-main.js.map": "/clueMarker/static/js/runtime-main.dda0bafd.js.map",
+    "static/js/2.b793defc.chunk.js": "/clueMarker/static/js/2.b793defc.chunk.js",
+    "static/js/2.b793defc.chunk.js.map": "/clueMarker/static/js/2.b793defc.chunk.js.map",
+    "index.html": "/clueMarker/index.html",
+    "precache-manifest.d9fbad021d56f4097db45e806b20e7c3.js": "/clueMarker/precache-manifest.d9fbad021d56f4097db45e806b20e7c3.js",
+    "service-worker.js": "/clueMarker/service-worker.js",
+    "static/css/main.2e43fec3.chunk.css.map": "/clueMarker/static/css/main.2e43fec3.chunk.css.map",
+    "static/js/2.b793defc.chunk.js.LICENSE.txt": "/clueMarker/static/js/2.b793defc.chunk.js.LICENSE.txt",
+    "static/media/train.jpg": "/clueMarker/static/media/train.fbf2cfaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dda0bafd.js",
+    "static/js/2.b793defc.chunk.js",
+    "static/css/main.2e43fec3.chunk.css",
+    "static/js/main.b1fda204.chunk.js"
+  ]
+}
