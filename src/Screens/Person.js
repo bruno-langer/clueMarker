@@ -1,7 +1,19 @@
 import React from 'react';
+import CardPerson from '../Components/CardPerson';
 
 const Person = () => {
-    return (<h1>Person</h1>);
+    return (
+        <div className={'container'}>
+            <CardPerson />
+            <CardPerson />
+            <CardPerson />
+            <CardPerson />
+            <CardPerson />
+            <CardPerson />
+            <CardPerson />
+            <CardPerson />
+        </div>
+    );
 }
 
 export default Person;
