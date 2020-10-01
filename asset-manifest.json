@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/clueMarker/static/css/main.2e43fec3.chunk.css",
-    "main.js": "/clueMarker/static/js/main.b1fda204.chunk.js",
-    "main.js.map": "/clueMarker/static/js/main.b1fda204.chunk.js.map",
+    "main.css": "/clueMarker/static/css/main.384444e5.chunk.css",
+    "main.js": "/clueMarker/static/js/main.0a3b5cc2.chunk.js",
+    "main.js.map": "/clueMarker/static/js/main.0a3b5cc2.chunk.js.map",
     "runtime-main.js": "/clueMarker/static/js/runtime-main.dda0bafd.js",
     "runtime-main.js.map": "/clueMarker/static/js/runtime-main.dda0bafd.js.map",
-    "static/js/2.b793defc.chunk.js": "/clueMarker/static/js/2.b793defc.chunk.js",
-    "static/js/2.b793defc.chunk.js.map": "/clueMarker/static/js/2.b793defc.chunk.js.map",
+    "static/js/2.fca6ff59.chunk.js": "/clueMarker/static/js/2.fca6ff59.chunk.js",
+    "static/js/2.fca6ff59.chunk.js.map": "/clueMarker/static/js/2.fca6ff59.chunk.js.map",
     "index.html": "/clueMarker/index.html",
-    "precache-manifest.d9fbad021d56f4097db45e806b20e7c3.js": "/clueMarker/precache-manifest.d9fbad021d56f4097db45e806b20e7c3.js",
+    "precache-manifest.860943416e0ac9570e21ca3540baa00b.js": "/clueMarker/precache-manifest.860943416e0ac9570e21ca3540baa00b.js",
     "service-worker.js": "/clueMarker/service-worker.js",
-    "static/css/main.2e43fec3.chunk.css.map": "/clueMarker/static/css/main.2e43fec3.chunk.css.map",
-    "static/js/2.b793defc.chunk.js.LICENSE.txt": "/clueMarker/static/js/2.b793defc.chunk.js.LICENSE.txt",
-    "static/media/train.jpg": "/clueMarker/static/media/train.fbf2cfaa.jpg"
+    "static/css/main.384444e5.chunk.css.map": "/clueMarker/static/css/main.384444e5.chunk.css.map",
+    "static/js/2.fca6ff59.chunk.js.LICENSE.txt": "/clueMarker/static/js/2.fca6ff59.chunk.js.LICENSE.txt",
+    "static/media/person1.png": "/clueMarker/static/media/person1.c7f4483e.png",
+    "static/media/person2.png": "/clueMarker/static/media/person2.731bbf6a.png",
+    "static/media/person3.png": "/clueMarker/static/media/person3.1a8457fe.png",
+    "static/media/person4.png": "/clueMarker/static/media/person4.4e007ed2.png",
+    "static/media/person5.png": "/clueMarker/static/media/person5.989f26bb.png",
+    "static/media/person6.png": "/clueMarker/static/media/person6.9b478f4f.png",
+    "static/media/person7.png": "/clueMarker/static/media/person7.4258f7ff.png",
+    "static/media/person8.png": "/clueMarker/static/media/person8.e2950c4e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.dda0bafd.js",
-    "static/js/2.b793defc.chunk.js",
-    "static/css/main.2e43fec3.chunk.css",
-    "static/js/main.b1fda204.chunk.js"
+    "static/js/2.fca6ff59.chunk.js",
+    "static/css/main.384444e5.chunk.css",
+    "static/js/main.0a3b5cc2.chunk.js"
   ]
 }
