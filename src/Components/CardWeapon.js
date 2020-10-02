@@ -4,7 +4,7 @@ import './style.css';
 
 
 
-const CardPerson = (props) => {
+const CardWeapon = (props) => {
 
 
     let session = sessionStorage.getItem(props.name)
@@ -13,9 +13,7 @@ const CardPerson = (props) => {
     const [active, setActive] = useState(true)
 
 
-
     useEffect(() => {
-
         if (session !== null) {
             session = (session === 'true') ? true : false
             setActive(session)
@@ -26,11 +24,9 @@ const CardPerson = (props) => {
         sessionStorage.setItem(props.name, active)
     }, [active])
 
-    // let index;
-    // if (props.index ===)
 
-    const img = `url(${require(`../fotos/person${props.index + 1}.png`)})`
 
+    const img = `url(${require(`../fotos/weapon${props.index + 1}.png`)})`
 
 
     return (
@@ -45,15 +41,8 @@ const CardPerson = (props) => {
             }}>
 
             <span className={'card-name'}>{props.name}</span>
-            <span
-                className={'card-description'}
-                style={{
-                    color: props.color,
-                }}
-            >
-                {props.description}</span>
         </div>
     );
 }
 
-export default CardPerson;
+export default CardWeapon;
