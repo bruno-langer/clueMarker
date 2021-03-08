@@ -1,1 +1,1 @@
-## This was build because i dont like paper
+## This was built because I don't like paper
